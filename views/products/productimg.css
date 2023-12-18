@@ -1,0 +1,11 @@
+.productimg {
+    width: 150px;
+    height: 300px;
+}
+
+
+.headeris {
+    max-height: 300px;
+    max-width: 100px;
+}
+.card {display:inline-block;}
